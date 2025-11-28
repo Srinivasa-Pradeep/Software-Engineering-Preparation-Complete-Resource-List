@@ -1,9 +1,7 @@
 # Software Engineering Preparation – Complete Resource List
 
 ## 1. Algorithms & Data Structures (Core Technical Foundation)
-
 ###  Books
-
 * Cracking the Coding Interview – Gayle Laakmann McDowell
 * Elements of Programming Interviews – Adnan Aziz
 * Grokking Algorithms – Aditya Bhargava
