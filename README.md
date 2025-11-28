@@ -2,7 +2,7 @@
 
 ## 1. Algorithms & Data Structures (Core Technical Foundation)
 
-### 📚 Books
+###  Books
 
 * Cracking the Coding Interview – Gayle Laakmann McDowell
 * Elements of Programming Interviews – Adnan Aziz
@@ -10,7 +10,7 @@
 * Introduction to Algorithms (CLRS) – Thomas H. Cormen
 * Competitive Programming 4 – Steven Halim
 
-### 🎥 YouTube Channels & Playlists
+###  YouTube Channels & Playlists
 
 * NeetCode – LeetCode walkthroughs and patterns
 * Abdul Bari – Deep algorithm explanations
@@ -18,14 +18,12 @@
 * Kunal Kushwaha (DSA Playlist)
 * CS50 – Harvard’s Introduction to Computer Science
 
-### 🧠 Practice Platforms
+### Practice Platforms
 
 * LeetCode
 * Codeforces
-* InterviewBit
-* HackerRank
 
-### 🎓 Udemy Courses
+###  Udemy Courses
 
 * Master the Coding Interview: Data Structures + Algorithms – Andrei Neagoie
 * Data Structures & Algorithms using Python – Jose Portilla
@@ -34,26 +32,26 @@
 
 ## 2. System Design (Scalable Thinking)
 
-### 📚 Books
+###  Books
 
 * Designing Data-Intensive Applications – Martin Kleppmann
 * System Design Interview (Vol 1 & 2) – Alex Xu
 * Site Reliability Engineering – Google
 * Clean Architecture – Robert C. Martin
 
-### 🎥 YouTube Channels & Playlists
+### YouTube Channels & Playlists
 
 * Gaurav Sen – System design concepts & case studies
 * ByteByteGo – Visual system design explanations
 * Hussein Nasser – Real-world backend & distributed systems
 * Tech Dummies Narendra L – Practical system walkthroughs
 
-### 📦 Structured Resources
+### Structured Resources
 
 * System Design Primer (GitHub)
 * Grokking the System Design Interview – Educative.io
 
-### 🎓 Courses
+### Courses
 
 * Scalability & System Design for Developers – Martin Kleppmann
 
@@ -61,14 +59,14 @@
 
 ## 3. Behavioral & Mindset Preparation
 
-### 📚 Books
+### Books
 
 * Decode and Conquer – Lewis C. Lin
 * The STAR Interview Method – Michelle Dumas
 * Atomic Habits – James Clear
 * The 7 Habits of Highly Effective People – Stephen Covey
 
-### 💡 Focus Areas
+### Focus Areas
 
 * STAR Method storytelling
 * Leadership & collaboration scenarios
@@ -78,7 +76,7 @@
 
 ---
 
-## 🌟 Recommended Core Stack (If You Want a Focused Path)
+## Recommended Core Stack (If You Want a Focused Path)
 
 ### DSA
 
@@ -99,7 +97,7 @@
 
 ---
 
-## 🧭 Optional Advanced Expanders
+## Optional Advanced Expanders
 
 * Clean Architecture – Robert C. Martin
 * Competitive Programming 4 – Steven Halim
