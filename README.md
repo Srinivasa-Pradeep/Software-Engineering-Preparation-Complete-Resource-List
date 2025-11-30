@@ -34,7 +34,7 @@
 
 * Designing Data-Intensive Applications – Martin Kleppmann
 * System Design Interview (Vol 1 & 2) – Alex Xu
-* Site Reliability Engineering – Google
+* [Site Reliability Engineering – Google](https://sre.google/sre-book/table-of-contents/)
 * Clean Architecture – Robert C. Martin
 
 ### YouTube Channels & Playlists
