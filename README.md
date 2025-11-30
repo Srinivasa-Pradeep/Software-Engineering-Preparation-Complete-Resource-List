@@ -60,7 +60,7 @@
 ### Books
 
 * Decode and Conquer – Lewis C. Lin
-* The STAR Interview Method – Michelle Dumas
+* [The STAR Interview Method – Michelle Dumas](https://www.distinctiveweb.com/interviewing/interviewing-essentials-what-you-must-know/)
 * Atomic Habits – James Clear
 * The 7 Habits of Highly Effective People – Stephen Covey
 
